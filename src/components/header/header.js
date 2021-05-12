@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from "prop-types";
 
 import './Header.css';
-import back_img from '../../assets/imgs/back.png'
-import header_img from '../../assets/imgs/header_img.png'
+import back_img from '../../assets/images/back.png'
+import header_img from '../../assets/images/header_img.png'
 
 class Header extends Component {
 	static contextTypes = {
